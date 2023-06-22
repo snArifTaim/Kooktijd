@@ -1,0 +1,80 @@
+body {
+    font-family: inter;
+}
+
+.menutxt {
+    color: #ff4e89;
+}
+
+.menutxt:hover,
+.menutxt:active,
+.menu-active {
+    color: #ff76a4;
+}
+
+.bg-gray {
+    background-color: #f8f8f8;
+}
+
+.color-gray {
+    color: #676767;
+}
+
+.login-btn {
+    background-color: #cc3366;
+    color: #fff;
+    font-weight: 700;
+}
+
+.login-btn:hover {
+    background-color: #d65480;
+    color: #e5e5e5;
+}
+
+.card-txt {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card-title {
+    font-size: 12px;
+}
+
+.taimbro-card-txt {
+    margin-top: -20px;
+}
+
+.taimbro-wimg {
+    border-radius: 40px;
+    width: 20% ;
+    height: 200px !important;
+}
+
+.taimbro-amwidget {
+    background-color: #CC3366;
+    border-radius: 25px;
+}
+.box-txt {
+    color: #F6F7FA;
+    border-bottom: 1px solid;
+}
+.taimbro-stap {
+    text-decoration: underline;
+    text-decoration-color: #CC3366;
+}
+.taimbro-rvw-main {
+    background-color: #F5F5F5;
+}
+.star-active {
+    color: #FBC02D;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.taimbro-c-w {
+    justify-content: start;
+}
+.taimbro-r-img {
+    width: 150px;
+    height: 160px;
+}

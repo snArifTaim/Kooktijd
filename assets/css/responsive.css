@@ -1,0 +1,46 @@
+@media screen and (max-width: 960px) {
+    .card-txt {
+        font-size: 18px;
+    }
+}
+
+
+@media screen and (max-width: 960px) {
+    .taimbro-res {
+        box-shadow: rgb(195, 195, 195) 0px 5px 10px 0px !important;
+        padding-left: 3rem !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .taimbro-widget {
+        flex-direction: column-reverse !important;
+    }
+
+    .taimbro-wimg {
+        width: 100% !important;
+    }
+
+    .taimbro-txt {
+        width: 100% !important;
+    }
+
+    .card-title {
+        font-size: 10px !important;
+    }
+
+    .card-txt {
+        font-size: 16px !important;
+    }
+
+    .taimbro-main-stap {
+        flex-direction: column !important;
+    }
+    .taimbro-c-w {
+        justify-content: center !important;
+    }
+    .taimbro-r-img {
+        width: 115px !important;
+        height: 130px !important;
+    }
+}
